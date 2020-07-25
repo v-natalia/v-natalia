@@ -5,12 +5,12 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=v-natalia&theme=dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-natalia&theme=dark" />
 </a>
-
+<br>
 <p> Hi !!
 I'm Natalia, fullstack developer, and I'm glad to see you here !
 </p>
 <p>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/natalia-vega-/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/natalia-vega-/">Linkedin</a> <br>
 <a href="https://v-natalia.github.io/">My portfolio</a>
 </p>
 
