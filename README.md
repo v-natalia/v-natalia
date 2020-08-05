@@ -14,14 +14,22 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p> Hi !! <br>  
   I'm Natalia, fullstack developer, and I'm glad to see you here !
 </p>
 <p>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/natalia-vega-/">Linkedin</a> <br>
-  <a href="https://v-natalia.github.io/">Portfolio</a>
+  📫 How to reach me: <br>
+  <a href="https://www.linkedin.com/in/natalia-vega-/">Linkedin</a><br>
+  <a href="https://v-natalia.github.io/">Portfolio</a><br>
 </p>
-
+<p>
+  ⚡ Fun fact: The first time I've heard about Ruby on Rails, I thought it was a joke, something like the "Lucy on the Sky with Diamonds" of coding ...<br>
+</p>
 
 <!--
 **v-natalia/v-natalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
