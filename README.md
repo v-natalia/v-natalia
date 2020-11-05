@@ -1,6 +1,6 @@
 <br>
 <p> Hi !! <br>  
-  I'm Natalia, fullstack developer, and I'm glad to see you here !
+  I'm Natalia, a fullstack developer with a preference for backend, and I'm glad to see you here !
 </p>
 <p>
   📫 How to reach me: <br>
