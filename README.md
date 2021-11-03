@@ -13,7 +13,7 @@
 <p>
   ⚡ Fun fact: The first time I've heard about Ruby on Rails, I thought it was a joke of a name, something like the "Lucy on the Sky with Diamonds" of coding ...<br>
 </p>
-<br>![gh](https://user-images.githubusercontent.com/43504407/140059056-5609753a-bc75-48c7-97f7-decd3e07eca3.png)
-
-
+<br>
+<---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-natalia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+--->
