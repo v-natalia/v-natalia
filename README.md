@@ -5,7 +5,8 @@
 </p>
 <p>
   📫 How to reach me: <br>
-  <a href="https://v-natalia.github.io/">Portfolio</a><br>
+  <a href="https://vnatalia.com/">Portfolio</a><br>
+  <a href="https://vnatalia.hashnode.dev/">Blog</a><br>
   <a href="https://twitter.com/vnatalia_dev">Twitter</a><br>
   <a href="https://www.linkedin.com/in/natalia-vega-/">Linkedin</a><br>
 
